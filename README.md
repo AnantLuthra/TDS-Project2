@@ -12,7 +12,7 @@ The **Automated Data Analysis Tool** is an advanced solution designed to streaml
 - **Summary Statistics**: The tool generates detailed statistical summaries for both numerical and categorical data, giving insights into distribution, trends, and relationships.
 - **Data Visualizations**: Automatically generates various visualizations (e.g., correlation heatmaps, distribution plots) and saves them as PNG files for easy sharing and reporting.
 - **Narrative Generation**: Utilizes OpenAI's API to generate human-readable, insightful narratives based on the analysis results, making complex data easier to understand.
-  
+
 ---
 
 ## Datasets Analyzed
